@@ -19,3 +19,5 @@ Its my second web application, which is an advanced version of my first applicat
 **Additional Facility included:**
 Here a mail of guest votes are shared as csv file from database table to admin mail Id at regular interval dynamatically and automatically.
 
+**While trying to access the source code start from Login.jsp to go with the flow**
+
